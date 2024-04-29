@@ -1,0 +1,6 @@
+@NeversitupTestAPI_HostAddress = http://localhost:5228
+
+GET {{NeversitupTestAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
